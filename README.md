@@ -1,5 +1,5 @@
 # diffusion
-code and list papers 
+code and papers list 
 <img width="1142" alt="截屏2023-07-31 10 11 03" src="https://github.com/ponyzym/diffusion/assets/140879115/39b085a1-fb78-4443-9fd3-5d79ed3d8912">
 
 ## 课题参考
